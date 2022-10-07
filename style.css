@@ -1,0 +1,83 @@
+#first{
+margin: auto;
+margin-top: 20px;
+border: 1px solid grey;
+width: 1200px;
+height: 600px;
+background-image:url("https://www.motortrend.com/uploads/2022/01/2022-Bugatti-Chiron-Super-Sport-65.jpg");
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+box-shadow: 5px 5px 5px grey;
+}
+
+#pre{
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    height: 100px;
+    width: 50px;
+    background-color: transparent;
+    color: white;
+    font-size: 48px;
+    margin-top: 200px;
+    border: 0px;
+}
+
+#next{
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    height: 100px;
+    width: 50px;
+    background-color: transparent;
+    color: white;
+    font-size: 48px;
+    margin-top: 200px;
+    border: 0px;
+}
+
+#second{
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid grey;
+    width: 1200px;
+    height: 600px;
+    background-image:url("https://carwow-uk-wp-2.imgix.net/lamborghini-aventador-replacement-front-blue-1.jpg?auto=format&cs=tinysrgb&fit=crop&h=800&ixlib=rb-1.1.0&q=60&w=1600");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 5px 5px 5px grey;
+    display: none;
+    }
+#third{
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid grey;
+    width: 1200px;
+    height: 600px;
+    background-image:url("https://sharpmagazine.com/wp-content/uploads/2020/01/SharpJan20_Supercars_feat.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 5px 5px 5px grey;
+    display: none;
+ }
+
+        
+#next:hover{
+    background-color:rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+}        
+
+#pre:hover{
+    background-color:rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 24px;
+}
